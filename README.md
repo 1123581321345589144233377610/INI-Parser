@@ -16,7 +16,7 @@ The number of spaces between equality characters can be arbitrary. For simplicit
 Comment string. It has the format: ; comment string.
 The parser should ignore such strings, nothing should be done with them.
 
-### 3. general structure of INI-file
+### 3. General structure of INI-file
 Example of INI-file structure:
 ```INI
 [Section1]
